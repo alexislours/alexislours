@@ -4,8 +4,5 @@
 
 - 📫 How to reach me: **alexislours@protonmail.com**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexislours&show_icons=true&locale=en&layout=compact" alt="alexislours" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexislours&layout=compact" alt="alexislours" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexislours&show_icons=true&locale=en" alt="alexislours" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexislours&" alt="alexislours" /></p>
