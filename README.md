@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Alexis</h1>
+<p align="center">
+  <img src="hero.jpg" alt="Long-tailed tit" width="900">
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alexislours&label=Profile%20views&color=0e75b6&style=flat-square" alt="alexislours" /> </p>
+<h1 align="center">Alexis Lours</h1>
 
-- 📫 How to reach me: **alexislours@protonmail.com**
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexislours&layout=compact" alt="alexislours" /></p>
-
+<p align="center">
+  <a href="https://alexislours.com">alexislours.com</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:alexislours@protonmail.com">alexislours@protonmail.com</a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alexislours&label=Views&color=999999&style=flat-square" alt="">
+</p>
